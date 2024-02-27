@@ -1,8 +1,8 @@
 # AI ChatBot
-Developed an AI chatbot using the MERN stack and OpenAI API, similar to ChatGPT.
-▪ Implemented user authentication and authorization mechanisms, utilizing JWT tokens and HTTP Only Cookies for
+- Developed an AI chatbot using the MERN stack and OpenAI API, similar to ChatGPT.
+- Implemented user authentication and authorization mechanisms, utilizing JWT tokens and HTTP Only Cookies for
 security.
-▪ Utilized MongoDB for efficient storage of user conversations and Material UI for a visually appealing chat interface.
+- Utilized MongoDB for efficient storage of user conversations and Material UI for a visually appealing chat interface.
 
 # features:
 - Users can Login/Signup using local method(username password) and after successful authentication the user is provided with a jwt token which is saved as browser's http only cookies.
